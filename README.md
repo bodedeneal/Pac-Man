@@ -1,5 +1,5 @@
 # Pac-Man
-This is Pac-Man clone made for training. It's done without canvas and can be visited here: https://dominikgorczyca.github.io/Pac-Man/
+This is Pac-Man clone made for training. It's done without canvas and can be visited here: https://bodedeneal.github.io/Pac-Man/
 
 Done in 2 months, it was an experience that teached me a lot and was probably a hardest project I ever made. 
 
