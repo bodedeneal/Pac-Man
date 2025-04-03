@@ -125,7 +125,7 @@ let ghostsEaten = 0;
 let newLevel = true;
 let score = 0;
 let livesLost = 0;
-let gameStartLength = 4200;
+let gameStartLength = 420;
 let whichMunch = 1;
 
 document.addEventListener("click", startGame); 
